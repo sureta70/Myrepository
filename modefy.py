@@ -205,9 +205,9 @@ def cari(inurl , site , maxc):
     return finallist
 
 if __name__ == "__main__":
-print(R+"(￣ ³￣)")
-	print (W+43*"-")
-	print(Y+"sureta0undefineKO_DORK"+R+"new version by sureta70")
+print(R+"By Bl4ckImag3")
+print (W+43*"-")
+print(Y+"sureta0undefineKO_DORK"+R+"new version by sureta70")
 	
 
 	inurl = raw_input(B+"[?]"+G+" Inurl    "+W+": ")
