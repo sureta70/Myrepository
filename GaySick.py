@@ -132,8 +132,7 @@ def cek():
 # Searching web --
 def cari(inurl , site , maxc):
 
-    print (R+"[!] "+W+"Please Wait.."+glp),;sys.stdout.flush()
-
+    print (R+"[!] "+W+"h Wait.."+glp),;sys.stdout.flush()
     urls = []
     page = 0
 
@@ -205,12 +204,12 @@ def cari(inurl , site , maxc):
 
 if __name__ == "__main__":
 	print ("      "+Y+"  _____       ___           _   ")
-	print (R+" |'+'|"+Y+" |  |  |___  |    \ ___ ___| |_ ")
-	print (R+" (o o)"+Y+" |    -| . | |  |  | . |  _| '_|")
-	print (R+"  (_) "+Y+" |__|__|___| |____/|___|_| |_,_|"+W+" (c)")
+	print (R+" {'+'}"+Y+" |  |  |___  |    \ ___ ___| |_ ")
+	print (R+" (oxo)"+Y+" |    -| . | |  |  | . |  _| '_|")
+	print (R+"  <_> "+Y+" |__|__|___| |____/|___|_| |_,_|"+W+" (c)")
 	print (W+43*"-")
-	print("sureta0undefineKO_DORK new version by sureta70")
-	
+	print("sureta0undefineGaySick new version by GAYSECURITY")
+	print (R+"GAYSECURITY InterGalactic")
 
 	inurl = raw_input(B+"[?]"+G+" Inurl    "+W+": ")
 	site  = raw_input(B+"[?]"+G+" Site     "+W+": ")
