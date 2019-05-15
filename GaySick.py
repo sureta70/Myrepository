@@ -203,17 +203,14 @@ def cari(inurl , site , maxc):
     return finallist
 
 if __name__ == "__main__":
-	print ("      "+Y+"  _____       ___           _   ")
-	print (R+" {'+'}"+Y+" |  |  |___  |    \ ___ ___| |_ ")
-	print (R+" (oxo)"+Y+" |    -| . | |  |  | . |  _| '_|")
-	print (R+"  <_> "+Y+" |__|__|___| |____/|___|_| |_,_|"+W+" (c)")
+	print (Y+" GAYSECURITY"+W+" (c)")
 	print (W+43*"-")
-	print("sureta0undefineGaySick new version by GAYSECURITY")
-	print (R+"GAYSECURITY InterGalactic")
+	print (R+"GAYSECURITY"+Y+"InterGalactic")
+        print (B+"Sur"+Y+"eta")
 
-	inurl = raw_input(B+"[?]"+G+" Inurl    "+W+": ")
-	site  = raw_input(B+"[?]"+G+" Site     "+W+": ")
-	maxc  = raw_input(B+"[?]"+G+" Max Page "+W+": ")
+	inurl = raw_input(R+" Inurl "+B+"[?]    "+W+": ")
+	site  = raw_input(G+" Site  "+B+"[?]   "+W+": ")
+	maxc  = raw_input(B+" Max Page "+B+"[?] "+W+": ")
 
 	print (43*"-")
 	cari(inurl , site , maxc)
